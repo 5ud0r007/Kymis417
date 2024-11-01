@@ -13,7 +13,6 @@
 
 © LOADERAW
 
-## GIF
-
-<!-- Если копирайт удален, GIF не будет отображаться -->
-![Loader GIF](https://github.com/Kymis417/Kymis417/blob/main/gif.gif)
+<p>
+    <img src="https://raw.githubusercontent.com/Kymis417/Kymis417/main/gif.gif" alt="Loader GIF">
+</p>
