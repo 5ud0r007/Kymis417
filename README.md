@@ -1,4 +1,4 @@
-# Loaderaw
+# Я чмо очкастое ZVZVZVZVZ
 
 ![Loader GIF](https://github.com/Kymis417/Kymis417/blob/main/gif.gif)
 
@@ -16,3 +16,4 @@
 > У неё так много секретов  
 
 ---
+МАТЬ НЕ ШЛЮХА
